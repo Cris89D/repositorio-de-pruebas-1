@@ -1,0 +1,7 @@
+
+@misc{noauthor_10_nodate,
+	title = {10 minutes to pandas — pandas 2.2.3 documentation},
+	url = {https://pandas.pydata.org/docs/user_guide/10min.html},
+	urldate = {2025-03-03},
+	file = {10 minutes to pandas — pandas 2.2.3 documentation:C\:\\Users\\cr240\\Zotero\\storage\\WXIKDLME\\10min.html:text/html},
+}
